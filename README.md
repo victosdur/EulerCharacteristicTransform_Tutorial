@@ -33,7 +33,7 @@ pip install ect
 - "dect". You can find the documentation [here](https://aidos.group/dect/dect.html). This is a differentiable version of ECT, and is connected with Pytorch framework To install it: 
 
 ```bash
-pip install git+https://github.com/aidos-lab/dect.git #  require an up-to-date installation of PyTorch, either with or without CUDA support
+pip install git+https://github.com/aidos-lab/dect.git #  require an up-to-date installation of PyTorch, either with or without (pip install torch) CUDA support: 
 ```
 
 - "demeter". You can find the documentation [here](https://github.com/amezqui3/demeter). This is a python package to quickly compute the ECC of any given grayscale image in linear time with respect to its number of pixels. To install it:
