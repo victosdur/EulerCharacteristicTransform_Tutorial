@@ -44,6 +44,12 @@ cd demeter
 pip install -e
 ```
 
+
+Remember to install ipykernel to use the kernel of the created virtual environment:
+```bash
+pip install ipykernel
+```
+
 ## Repository structure
 
 - ect: Tutorial about the use of "ect" library.
