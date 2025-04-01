@@ -24,7 +24,7 @@ env\Scripts\activate
 
 4) Install the neccesary dependencies for compute the euler characteristic (EC), the euler characteristic curve (ECC), and the euler characteristic transform (ECT). There are different librarys for it:
 
-- "ect". You can find the documentation [here](https://munchlab.github.io/ect/re). To install it:
+- "ect". You can find the documentation [here](https://munchlab.github.io/ect). To install it:
 
 ```bash
 pip install ect
